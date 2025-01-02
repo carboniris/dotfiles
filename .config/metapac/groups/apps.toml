@@ -1,0 +1,28 @@
+arch = [
+    "code",
+    "nano"
+]
+
+flatpak = [
+    "com.github.Matoking.protontricks",
+    "com.github.tchx84.Flatseal",
+    "com.google.Chrome",
+    "com.obsproject.Studio",
+    "community.pathofbuilding.PathOfBuilding",
+    "dev.vencord.Vesktop",
+    "io.github.Cockatrice.cockatrice",
+    "io.github.glaumar.QRookie",
+    "io.mgba.mGBA",
+    "io.missioncenter.MissionCenter",
+    "io.podman_desktop.PodmanDesktop",
+    "moe.launcher.the-honkers-railway-launcher",
+    "net.davidotek.pupgui2",
+    "net.kuribo64.melonDS",
+    "net.lutris.Lutris",
+    "org.DolphinEmu.dolphin-emu",
+    "org.desmume.DeSmuME",
+    "org.gnome.baobab",
+    "org.kde.krita",
+    "org.libretro.RetroArch",
+    "org.videolan.VLC"
+]

@@ -1,0 +1,7 @@
+arch = [
+    "awesome-git",
+    "kando-bin",
+    "kitty",
+    "xorg-server-xephyr",
+    "xorg-xauth"
+]
